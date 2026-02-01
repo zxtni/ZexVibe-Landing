@@ -117,4 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you find this project helpful, please give it a star on GitHub!</content>
-<parameter name="filePath">c:\Users\Rahul\Downloads\Vibe-Landing\README.md
